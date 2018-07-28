@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# 联系方式
 
-You can use the [editor on GitHub](https://github.com/shiningcty/cty.cv/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- 手机：15824130881
+- Email：shiningcty@163.com
+- QQ/微信号：972203699
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 个人信息
 
-### Markdown
+ - 陈婷玉/女/1990 
+ - 硕士/xxx
+ - 本科/xxx
+ - 工作年限：4年
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ - 期望职位：xxx
+ - 期望薪资：xxx
+ - 期望城市：杭州
 
-```markdown
-Syntax highlighted code block
+# 工作经历
+## ABC公司 （ 2013年9月 ~ 2015年9月 ）
+### dfe项目 
+xxx
 
-# Header 1
-## Header 2
-### Header 3
+# 技能清单
 
-- Bulleted
-- List
+以下均为我熟练使用的技能
 
-1. Numbered
-2. List
+- xx
+- xx
+- xx
+- xx
+- xx
+- xx
+- xx
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shiningcty/cty.cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
